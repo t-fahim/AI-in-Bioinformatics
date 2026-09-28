@@ -68,12 +68,12 @@ _(List required software, e.g., Python version, R version, or specific platform 
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/t-fahim/AI-in-Bioinformatics.git
+cd AI-in-Bioinformatics
 
 # Set up the environment
 conda env create -f environment.yml
-conda activate <env-name>
+conda activate bioenv
 ```
 
 ### Usage
